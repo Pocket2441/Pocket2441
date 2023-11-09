@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @korben-open
+- 👋 Hi, I’m @Pocket2441
 - 👀 I’m interested in raspberry
 - 🌱 I’m currently learning python, linux and raspberry pi
 - 💞️ I’m looking to collaborate on raspberry pi projects
